@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(touch:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git flow init:*)",
+      "Bash(git flow feature start:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git flow feature finish:*)",
+      "Bash(git flow release finish:*)"
+    ],
+    "deny": []
+  }
+}
