@@ -14,7 +14,8 @@
       "Bash(git flow feature start:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git flow feature finish:*)"
+      "Bash(git flow feature finish:*)",
+      "Bash(git flow release finish:*)"
     ],
     "deny": []
   }
