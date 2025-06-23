@@ -15,7 +15,9 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git flow feature finish:*)",
-      "Bash(git flow release finish:*)"
+      "Bash(git flow release finish:*)",
+      "Bash(git tag:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }
