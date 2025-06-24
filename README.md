@@ -1,6 +1,18 @@
 # StockReport - 招股书智能分析系统
 
+[![Next.js](https://img.shields.io/badge/Next.js-14.0.4-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-00a67e?style=flat-square&logo=openai)](https://openai.com/)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-v0.1.0-brightgreen?style=flat-square)](https://github.com/kanekanefy/StockReport/releases/tag/v0.1.0)
+
 一个基于 Next.js 和 AI 的智能招股书下载和分析平台，支持多个交易所的招股书获取和专业投资分析。
+
+## 🚀 在线演示
+
+- **生产环境**: [StockReport Live](https://stock-report-kanekanefy.vercel.app) *(即将部署)*
+- **开发环境**: [StockReport Dev](https://stock-report-dev-kanekanefy.vercel.app) *(即将部署)*
 
 ## 功能特性
 

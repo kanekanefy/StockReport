@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+<<<<<<< HEAD
       "Bash(find:*)",
       "Bash(mkdir:*)",
       "Bash(rm:*)",
@@ -20,6 +21,9 @@
       "Bash(git checkout:*)",
       "Bash(git remote add:*)",
       "Bash(git push:*)"
+=======
+      "Bash(git merge:*)"
+>>>>>>> develop
     ],
     "deny": []
   }
